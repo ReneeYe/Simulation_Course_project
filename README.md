@@ -6,3 +6,6 @@ https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Metho
 
 The book uses Python package, pymc, to solve this problem, but, as the requirement of project, instead of using Pymc, I simply use MCMC sampling to solve the problem, Besides, I try to build a different model from the book. Finally, I use cross-validation to evalute the model I constructed.
 
+## Read Online：
+
+http://nbviewer.jupyter.org/github/ReneeYe/Simulation_Course_project/blob/master/Challenger_Space_Shuttle_Probem.ipynb
